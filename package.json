@@ -1,0 +1,28 @@
+{
+  "name": "placid-pine-plotter",
+  "version": "1.1.2",
+  "description": "A lightweight library for generating serene, nature-inspired data plots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devormix/quickimageresizer"
+  },
+  "keywords": [
+    "plot",
+    "data",
+    "charts",
+    "nature",
+    "visualization"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^6.2.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "chart.js": "^2.9.4",
+    "uuid": "^8.3.0"
+  }
+}
